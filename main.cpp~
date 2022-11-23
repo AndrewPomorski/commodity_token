@@ -1,0 +1,14 @@
+
+#include <cstdlib>
+#include <iostream>
+
+double getNotional(double marginFactor,
+    double entryPrice,
+    double currentPrice,
+    int totoalSupply) {
+
+}
+
+int main (int argc, char * argv[]) {
+    return 0;
+}
